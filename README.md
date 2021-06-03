@@ -225,33 +225,118 @@ f. 0.000 035 7 amperes a microamperes
 
 
 
-12. ¿Cuántos electrones representa una carga de 1.63\ \mu C ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. ¿Cuántos electrones representa una carga de 1.63 mu C ?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120596281-2d60cb00-c409-11eb-93ec-ab28bdd598ce.png)
+
 13. Determina la carga en 19x{10}^{13}electrones.
-14. 14. Una placa de metal eléctricamente neutra adquiere una carga negativa de47\ \mu C. ¿Cuántos electrones se le agregaron?
-15. A una placa de metal se le han adicionado 14.6x{10}^{13}electrones y posteriormente se le agrega una carga de 1.3\mu C. Si la carga final en la placa es de 5.6\mu C, ¿cuál fue la carga inicial?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120596374-4b2e3000-c409-11eb-9bd9-3213572209e1.png)
+ 
+14. Una placa de metal eléctricamente neutra adquiere una carga negativa de 47 mu C. ¿Cuántos electrones se le agregaron?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120596732-b546d500-c409-11eb-9997-6fda6b7b1ec1.png)
+
+15. A una placa de metal se le han adicionado 14.6x{10}^{13}electrones y posteriormente se le agrega una carga de 1.3 mu C. Si la carga final en la placa es de 5.6 mu C, ¿cuál fue la carga inicial?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120596920-f7701680-c409-11eb-86ec-ed4ae7b0a177.png)
+
 2-3 Voltaje
-16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué
+
+16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
+
+  En primer lugar debemos saber que todo objeto está compuesto por átomos lo cual, este contiene electrones, y al deslizar una silla simulamos el libre movimiento de los electrones lo cual esto vendría a ser la corriente eléctrica, y al chocar contra un objeto estático que esté vendría a tener una carga neutra. Lo cual por esto se produce el choque eléctrico.
+
 17. Si se requieren 360 Joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿cuál es el voltaje de la batería?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597128-41f19300-c40a-11eb-8530-68380a9a2011.png)
+
 18. Si se requiere de 600 J de energía para mover 9.36x{10}^{19}electrones de un punto a otro, ¿cuál es la diferencia de potencial entre los dos puntos?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597193-5cc40780-c40a-11eb-8105-23e86689ef10.png)
+
 19. Si se requiere de 1.2 kJ de energía para mover 500 mC de un punto a otro, ¿cuál es el voltaje entre los dos puntos?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597352-8bda7900-c40a-11eb-8d60-07665937a990.png)
+
 20. ¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara de la figura 2-23?
-21. ¿Cuánta energía adquiere una carga de 0.5\mu C conforme se mueve a través deuna diferencia de potencial de 8.5 kV
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597477-ba585400-c40a-11eb-953e-5c5b1ed2f6bd.png)
+
+21. ¿Cuánta energía adquiere una carga de 0.5 mu C conforme se mueve a través deuna diferencia de potencial de 8.5 kV
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597506-c47a5280-c40a-11eb-9505-686cac7608ab.png)
+
 22. Si el voltaje entre dos puntos es de 100 V, ¿cuánta energía se requiere para mover un electrón entre los dos puntos?
+ 
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597605-e1168a80-c40a-11eb-9c4d-4458538a0621.png)
+
 23. Dado un voltaje de 12 V para la batería de la figura 2-1, ¿cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597662-f25f9700-c40a-11eb-8afa-17beb229966a.png)
+
 2-4 Corriente 
+
 24. Para el circuito de la figura 2-1, si 27 C pasan a través de la lámpara en 9 segundos, ¿cuál es la corriente en amperes?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597777-158a4680-c40b-11eb-9016-ff50b78f1fa2.png)
+
 25. Si  250\mu C pasan a través del amperímetro de la figura 2-32 en 5 ms, ¿cuál será la lectura del medidor?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597826-25098f80-c40b-11eb-9441-530a9b523760.png)
+
 26. Si la corriente I=4\ A en la figura 2-1, ¿cuántos coulombs pasan a través de la lámpara en 7 ms?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597871-35216f00-c40b-11eb-84fe-4d5502ad77ab.png)
+
 27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597933-479ba880-c40b-11eb-8e42-217e26a37d5d.png)
+
 28. ¿Cuánto tiempo le toma a una carga de 100\mu C pasar por un punto si la corriente es de 25 mA?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120597984-571af180-c40b-11eb-98ce-affde96f8fde.png)
+
 29. Si 93.6x{10}^{12}electrones pasan a través de una lámpara en 5 ms, ¿cuál es la corriente?
-30. La carga que pasa a través de un alambre está dada por q=10t+4, donde q está en coulomb y ten segundos
-31. La carga que pasa a través de un alambre es q=(80t+20)C. ¿Cuál es la corriente? 
-Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120598104-7ade3780-c40b-11eb-8b74-9e6860fba7ed.png)
+
+30. La carga que pasa a través de un alambre está dada por q=10t+4, donde q está en coulomb y t en segundos
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120598147-87fb2680-c40b-11eb-9cd9-6442b99caf8a.png)
+
+31. La carga que pasa a través de un alambre es q=(80t+20)C. ¿Cuál es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120598392-d3add000-c40b-11eb-900b-a8499e605865.png)
+
 32. ¿Cuánto tiempo le toma a 312x{10}^{19}electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8 A?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120598445-de686500-c40b-11eb-83bb-4cabc3e37c92.png)
+
 33. Si se requieren 1 353.6 J para mover 47x{10}^{19}electrones a través de la lámpara de la figura 2-32 en 1.3 min, ¿cuánto valen E e I?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120598507-f2ac6200-c40b-11eb-9e66-559df9d63e7d.png)
+
 2-5 Fuentes de voltaje de cd prácticas
+
 34. ¿Qué se entiende por cd?, ¿y por ca?
+
 
 35. Considere tres baterías conectadas como en la figura 2-33
 
