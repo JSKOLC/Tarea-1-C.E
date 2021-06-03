@@ -536,7 +536,8 @@ Por que si se rebasa la espesificacion que puede soportar el fusible, se produce
 
 4. VIDEO
 
-
+   https://www.youtube.com/watch?v=oiUne2Wub38
+   
 5. CONCLUSIONES
    
      •	Uno de los aprendizajes muy valioso que se obtuvo de este deber son los conocimientos de la Ley de Ohm que fueron llevados a la práctica y se ha observado cómo la Ley se cumple perfectamente siempre que las conexiones y mediciones son hechas correctamente., sin embargo, con ayuda de las conversiones de unidades podemos transformar los datos que nos den a una unidad más fácil para resolver.
