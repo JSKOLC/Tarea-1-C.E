@@ -1,4 +1,19 @@
 1. OBJETIVOS
+
+    •	Aprender de forma teórica y experimental a determinar las equivalencias de las unidades para hacer las conversiones tanto así para poder utilizar en varios    problemas de voltaje y corriente o en un sin número de aplicaciones que podemos necesitar
+
+    •	Analizar y comprender sobre la teoría de la Ley de Ohm, su utilidad, su importancia y sus aplicaciones mediante varios ejercicios.
+
+    •	Desarrollar destrezas básicas para el reconocimiento del sistema de unidades
+
+    •	 La presente unidad didáctica trata de contemplar los aspectos básicos sobre circuitos eléctricos. En este sentido se entiende al alumno familiarizado con conceptos elementales
+
+    •	Desarrollar la capacidad para trabajar en equipo
+
+    •	Realizar cálculos de consumo eléctrico en los aparatos domésticos cotidianos
+
+    •	Conocer y comprender los conceptos de corriente continua, generador eléctrico, receptor eléctrico, conductores eléctricos y elementos de maniobra y protección
+
 2. MARCO TEORICO.
 
 ![MAPA 1](https://user-images.githubusercontent.com/85263529/120591133-44032400-c401-11eb-995b-018a0ada01a4.jpeg)
