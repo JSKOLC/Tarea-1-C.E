@@ -486,6 +486,7 @@ Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pr
 
 38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA? ¿Qué concluye de estos resultados?
 
+ ![imagen](https://user-images.githubusercontent.com/85263529/120680060-80656d00-c45f-11eb-82ed-842444c7f146.png)
 
 39. La batería de la figura 2-15 está especificada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a15°C?
 
@@ -493,6 +494,7 @@ Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pr
 
 40. Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0.8 A?
 
+  ![imagen](https://user-images.githubusercontent.com/85263529/120679997-6deb3380-c45f-11eb-816a-0e66ec4f792f.png)
 
 41. En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA, ¿cuál es el tiempo estimado (en horas) que será capaz de usar?
 
