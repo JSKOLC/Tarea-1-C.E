@@ -352,62 +352,164 @@ e. Un electrón y un neutrón separados 5.7 1011m
 
 ![image](https://user-images.githubusercontent.com/85263529/120601207-45d3e400-c40f-11eb-9065-41385196f7b4.png)
 
-
 12. ¿Cuántos electrones representa una carga de 1.63\ \mu C ?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120601769-f80bab80-c40f-11eb-8d35-34477d4ad28f.png)
+
 13. Determina la carga en 19x{10}^{13}electrones.
-14. 14. Una placa de metal eléctricamente neutra adquiere una carga negativa de47\ \mu C. ¿Cuántos electrones se le agregaron?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120601833-0659c780-c410-11eb-945d-856c743625cc.png)
+
+14. Una placa de metal eléctricamente neutra adquiere una carga negativa de47\ \mu C. ¿Cuántos electrones se le agregaron?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120601979-27221d00-c410-11eb-9c5d-7be0d9773550.png)
+
 15. A una placa de metal se le han adicionado 14.6x{10}^{13}electrones y posteriormente se le agrega una carga de 1.3\mu C. Si la carga final en la placa es de 5.6\mu C, ¿cuál fue la carga inicial?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120602056-415bfb00-c410-11eb-940c-86f5b5826be7.png)
+
 2-3 Voltaje
+
 16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué
+
+ En primer lugar debemos saber que todo objeto está compuesto por átomos lo cual, este contiene electrones, y al deslizar una silla simulamos el libre movimiento de los electrones lo cual esto vendría a ser la corriente eléctrica, y al chocar contra un objeto estático que esté vendría a tener una carga neutra. Lo cual por esto se produce el choque eléctrico.
+ 
 17. Si se requieren 360 Joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿cuál es el voltaje de la batería?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120602219-70726c80-c410-11eb-9a15-e83c97603de3.png)
+
 18. Si se requiere de 600 J de energía para mover 9.36x{10}^{19}electrones de un punto a otro, ¿cuál es la diferencia de potencial entre los dos puntos?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120602274-7ff1b580-c410-11eb-9503-5d5e328603d2.png)
+
 19. Si se requiere de 1.2 kJ de energía para mover 500 mC de un punto a otro, ¿cuál es el voltaje entre los dos puntos?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120602334-8bdd7780-c410-11eb-841c-b44d8e7c425c.png)
+
 20. ¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara de la figura 2-23?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120602416-9c8ded80-c410-11eb-999a-94ccf3a0ed00.png)
+
 21. ¿Cuánta energía adquiere una carga de 0.5\mu C conforme se mueve a través deuna diferencia de potencial de 8.5 kV
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120602509-b4657180-c410-11eb-920b-e7a3b02daa0a.png)
+
 22. Si el voltaje entre dos puntos es de 100 V, ¿cuánta energía se requiere para mover un electrón entre los dos puntos?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120602555-c1826080-c410-11eb-81c3-81b3e99f1455.png)
+
 23. Dado un voltaje de 12 V para la batería de la figura 2-1, ¿cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120602632-d52dc700-c410-11eb-9574-b7dec8ec61bf.png)
+
 2-4 Corriente 
+
 24. Para el circuito de la figura 2-1, si 27 C pasan a través de la lámpara en 9 segundos, ¿cuál es la corriente en amperes?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120602873-0c9c7380-c411-11eb-9a50-365873a9ea78.png)
+
 25. Si  250\mu C pasan a través del amperímetro de la figura 2-32 en 5 ms, ¿cuál será la lectura del medidor?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120602904-13c38180-c411-11eb-9e76-37abc7f0e2c1.png)
+
 26. Si la corriente I=4\ A en la figura 2-1, ¿cuántos coulombs pasan a través de la lámpara en 7 ms?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120602957-2047da00-c411-11eb-8a6c-808e80a6f353.png)
+
 27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603002-2938ab80-c411-11eb-9de6-72436b976d63.png)
+
 28. ¿Cuánto tiempo le toma a una carga de 100\mu C pasar por un punto si la corriente es de 25 mA?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603035-348bd700-c411-11eb-8bf1-d3dab0964bd7.png)
+
 29. Si 93.6x{10}^{12}electrones pasan a través de una lámpara en 5 ms, ¿cuál es la corriente?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603078-3eadd580-c411-11eb-840a-224759e176b8.png)
+
 30. La carga que pasa a través de un alambre está dada por q=10t+4, donde q está en coulomb y ten segundos
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603140-4ec5b500-c411-11eb-96a7-51d7162844dd.png)
+
 31. La carga que pasa a través de un alambre es q=(80t+20)C. ¿Cuál es la corriente? 
 Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603186-5c7b3a80-c411-11eb-8f97-93bd2d00b221.png)
+
 32. ¿Cuánto tiempo le toma a 312x{10}^{19}electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8 A?
+
+![imagen](https://user-images.githubusercontent.com/85263529/120603245-6bfa8380-c411-11eb-8826-79851021a9d5.png)
+
 33. Si se requieren 1 353.6 J para mover 47x{10}^{19}electrones a través de la lámpara de la figura 2-32 en 1.3 min, ¿cuánto valen E e I?
+
+![imagen](https://user-images.githubusercontent.com/85263529/120603286-76b51880-c411-11eb-9603-1e98ceb959c2.png)
+
 2-5 Fuentes de voltaje de cd prácticas
+
 34. ¿Qué se entiende por cd?, ¿y por ca?
+
+   Al movimiento de cargas, se llama corriente eléctrica. Debido a que una de las terminales siempre positiva y la otra siempre negativa, la corriente se mueve siempre en la misma dirección. Esta corriente unidireccional se llama cd o corriente directa
+
+  la ca o corriente alterna, que es la corriente que cambia de dirección de manera cíclica, esto es, las cargas fluyen de manera alternada en una dirección y después en la otra dentro del circuito. La fuente de ca más común es el sistema comercial de potencia que suministra energía a los hogares.
 
 35. Considere tres baterías conectadas como en la figura 2-33
 
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603489-b7149680-c411-11eb-9695-c43b0ee4a6c9.png)
+
 36. ¿Cómo se carga una batería secundaria? Haga un bosquejo. ¿Se puede cargar una batería primaria?
+
+ En primera instancia, la batería secundaria es aquella que puede ser cargada por otra, se puede recargarse al pasar corriente a través de ella en sentido opuesto a su dirección de descarga
+ 
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603561-cb589380-c411-11eb-8017-07b81057c64e.png)
 
 37. Una batería especificada en 1 400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?
 
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603609-d6abbf00-c411-11eb-8462-54c961dc35b5.png)
+
 38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA? ¿Qué concluye de estos resultados?
+
 
 39. La batería de la figura 2-15 está especificada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a15°C?
 
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603703-e88d6200-c411-11eb-9884-0957af97bc1f.png)
+
 40. Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0.8 A?
 
+
 41. En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA, ¿cuál es el tiempo estimado (en horas) que será capaz de usar?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603801-035fd680-c412-11eb-97ba-828f5aa0e983.png)
 
 2-6 Medición de voltaje y corriente
 
 42. El voltímetro digital de la figura 2-34 tiene la característica de auto polaridad. Para cada caso, determine su lectura
 
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603881-1377b600-c412-11eb-8ab7-6b58e7a23fe8.png)
+
 43. La corriente en el circuito de la figura 2-35 es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente?
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120603958-2ab6a380-c412-11eb-8ffe-5a65140a514b.png)
 
 44. ¿Cuál es el error en la afirmación de que el voltaje a través de la lampara de la figura 2-24 es 70.3\ V.?
 
+  ![imagen](https://user-images.githubusercontent.com/85263529/120604087-4ae66280-c412-11eb-9bbe-2516b0ce5b90.png)
+
+  El error podría ser que desconocemos los datos del circuito como el  valor que sale de la fuente (v), valor de la resistencia (ohmios) y la intensidad de la corriente (A)
+
 45. ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36? Corríjalo
+
+ ![imagen](https://user-images.githubusercontent.com/85263529/120604155-5cc80580-c412-11eb-9762-4ed44ea3e6f0.png)
+
+ El error es que el amperímetro se debe medir en serie al circuito y No en paralelo como esta en el gráfico.
 
 2-7Interruptores, fusibles e interruptores automáticos
 
 46. Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido.
+
+![imagen](https://user-images.githubusercontent.com/85263529/120604262-7e28f180-c412-11eb-8cc8-89f0be494e5f.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/120604335-939e1b80-c412-11eb-9f7f-ce7e0b050069.png)
 
 47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especificación de voltaje. ¿Por qué? Sugerencia: lea la sección de aislantes, sección 2-1
 
