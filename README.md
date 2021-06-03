@@ -533,6 +533,24 @@ Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pr
 Por que si se rebasa la espesificacion que puede soportar el fusible, se produce una sobrecarga y puede ocacionar daños
 
 4. VIDEO
+
+
 5. CONCLUSIONES
+   
+     •	Uno de los aprendizajes muy valioso que se obtuvo de este deber son los conocimientos de la Ley de Ohm que fueron llevados a la práctica y se ha observado cómo la Ley se cumple perfectamente siempre que las conexiones y mediciones son hechas correctamente., sin embargo, con ayuda de las conversiones de unidades podemos transformar los datos que nos den a una unidad más fácil para resolver.
+
+     •	También se aprendió a hacer mediciones de voltajes, resistencias y a establecer relaciones entre estos valores en base al tipo de conexión con la que se esté trabajando
+
+     •	A continuación se introducen algunos elementos básicos para la medición de las magnitudes eléctricas, como son el voltímetro y el amperímetro, Con relación al voltímetro y el amperímetro, se estudian los métodos de medición de resistencias mediante estos instrumentos
+
+     •	Se presentan las leyes de Ohm y Kirchhoff y ejemplos de análisis de circuitos luego, se repasa potencia y energía y como se aplica en los circuitos eléctricos.
+
+     •	La resistencia eléctrica de un conductor, generalmente constituido por un alambre metálico, aunque a veces puede tener otras formas y estar fabricado con otros materiales, es una propiedad que depende de la resistividad del materia.
+
+     •	Todos los conductores no conducen la corriente eléctrica de igual forma, hemos visto anteriormente que existen materiales (aislantes) que no dejan pasar la corriente eléctrica y otros (conductores) que si lo permiten. La dificultad que opone un material al paso de la corriente es lo que llamamos Resistencia eléctrica y depende de varios factores: De la sección; cuanto más delgado mayor Resistencia. De la longitud del conductor; a mayor longitud más Resistencia.
+Del tipo de material; unos materiales ofrecen más Resistencia que otros. A esta propiedad de cada material se le conoce como Resistividad.
+La unidad de Resistencia es el Ohmio (Ω).
+
 6. BIBLIOGRAFIA
   
+   Robbins,A Miller,W. 2007-2008, Análisis de circuitos teoría y practica, cuarta edición, Santa Fe, México, Editores S.A. de C.V.,una compañía de Cengage Learning. Inc
