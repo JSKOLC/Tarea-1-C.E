@@ -181,6 +181,50 @@ B.	Realice la operación directamente en la calculadora sin conversión ¿Cuál 
 
 ![image](https://user-images.githubusercontent.com/85263529/120587246-9ee54d00-c3fa-11eb-9e64-4cbac340f244.png)
 
+36.La fuerza gravitacional entre dos cuerpos es F = 6.6726 x 10^-11 (m1*m2)/r^2 N, donde las masas m1 y m2 están en kilogramos y la distancia rentre los centros gravitacionales está en metros. Si el cuerpo 1 es una esfera con radio de 5000 millas y densidad de 25 kg/m^3, y el cuerpo 2 es una esfera de diámetro de 20 000 km y densidad de 12 kg/m^3. ¿Cuál es la fuerza gravitacional entre ellos?
+
+![36 resuelto](https://user-images.githubusercontent.com/85263529/120593549-49626d80-c405-11eb-9302-a7fcb86bcc30.jpeg)
+
+1-5Prefijos, notación de ingeniería y resultados numéricos
+37. ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?
+a. 1000
+b. 1 000 000
+c. 10〖x10〗^9
+d. 0.000 001
+e. 〖10〗^(-3)
+f. 〖10〗^(-12)
+
+![37RESUELTO](https://user-images.githubusercontent.com/85263529/120594315-62b7e980-c406-11eb-8874-2bf7a25c58a2.jpeg)
+
+38. Exprese lo siguiente en términos de sus abreviaturas, es decir, microwatts como uW. Ponga atención en las mayúsculas (esto es, V no v, para volts)
+a. miliamperes
+b. kilovolts
+c. megawatts
+d. microsegundos
+e. micrómetros
+f. milisegundos
+g. nanoamperes
+
+![38 RESUELTO](https://user-images.githubusercontent.com/85263529/120594980-52ecd500-c407-11eb-8020-0a9e3f5918a2.jpeg)
+
+39. Exprese lo siguiente en la notación de ingeniería más práctica (esto es, 1270us =1.27 ms).
+a. 0.0015 s
+b. 0.000 027 s
+c. 0.000 35 ms
+
+![39 RSULETO](https://user-images.githubusercontent.com/85263529/120595343-d1497700-c407-11eb-99ab-28c30ba58625.jpeg)
+
+40. Convierta lo siguiente:
+a. 156 mV en volts
+d. 0.057 MW a kilowatts
+b. 0.15 mV a microvolts
+e. 3.5 x10^4 volts a kilovolts
+c. 47 kW a watts
+f. 0.000 035 7 amperes a microamperes
+
+
+
+
 12. ¿Cuántos electrones representa una carga de 1.63\ \mu C ?
 13. Determina la carga en 19x{10}^{13}electrones.
 14. 14. Una placa de metal eléctricamente neutra adquiere una carga negativa de47\ \mu C. ¿Cuántos electrones se le agregaron?
