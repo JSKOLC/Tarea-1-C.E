@@ -514,5 +514,8 @@ Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pr
 47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especificación de voltaje. ¿Por qué? Sugerencia: lea la sección de aislantes, sección 2-1
 
 Por que si se rebasa la espesificacion que puede soportar el fusible, se produce una sobrecarga y puede ocacionar daños
-12. CONCLUSIONES
-13.  
+
+4. VIDEO
+5. CONCLUSIONES
+6. BIBLIOGRAFIA
+  
