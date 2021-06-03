@@ -222,121 +222,164 @@ e. 3.5 x10^4 volts a kilovolts
 c. 47 kW a watts
 f. 0.000 035 7 amperes a microamperes
 
+![40 RESUELTO](https://user-images.githubusercontent.com/85263529/120599102-b3324580-c40c-11eb-88a6-0fee6daa30c2.jpeg)
+
+41. Determine los valores que se deben insertar en el espacio en blanco.
+a. 150 kV =___ x10^3V =___ 10x^6V
+b. 330 uW =___ x10^-3W =___ 10^-5W
+
+![image](https://user-images.githubusercontent.com/85263529/120599292-f12f6980-c40c-11eb-850d-8467595d70dc.png)
+
+42. Realice las operaciones y exprese las respuestas en las unidades que se indican.
+a. 700 uA  - 0.4 mA =___ uA= ___ mA
+b. 600 MW  + 300 x10^4W= ___ MW
+
+![image](https://user-images.githubusercontent.com/85263529/120599356-04dad000-c40d-11eb-8f75-36616aad816a.png)
+
+43. Realice las operaciones y exprese las respuestas en las unidades que se indican.
+a. 330 V + 0.15 kV+ 0.2x 10^3V= ___ V
+b. 60 W +100 W+ 2700 mW = ___ W
+
+![image](https://user-images.githubusercontent.com/85263529/120599419-19b76380-c40d-11eb-892b-a4e30e7b6b31.png)
+
+44. El voltaje de una línea de transmisión de alto voltaje es de 1.15 x10^5V.¿Cuál es el voltaje en kV?
+
+![image](https://user-images.githubusercontent.com/85263529/120599476-2f2c8d80-c40d-11eb-93b4-651afd7759d1.png)
 
 
+45. Se compra un radiador eléctrico de 1500 W para calentar una habitación. ¿Cuántos kW es esta cantidad?
+
+![image](https://user-images.githubusercontent.com/85263529/120599495-36539b80-c40d-11eb-9310-76da180152b5.png)
+
+46. Considere la figura 1-11. Como aprenderá en el capítulo 6, I4=I1+ I2+ I3. Si I1=1.25 mA, I2=350 uA e I3=250x10^5A, ¿cuánto vale I4?
+
+![image](https://user-images.githubusercontent.com/85263529/120599631-5be0a500-c40d-11eb-8195-6c9ed3468064.png)
 
 
+47. Para la figura 1-12,I1I2I3I40. Si I112 A,I20.150 kA e I4250 101A, ¿cuánto vale I3?
+
+![image](https://user-images.githubusercontent.com/85263529/120599664-6864fd80-c40d-11eb-8086-4fd3609b8f29.png)
 
 
+49. Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmfd. Después de investigar se encuentra que “mmfd” es una unidadobsoleta que significa “micromicrofarads”. Se requiere un capacitor de reem-plazo de valor equivalente. Consulte la tabla 1-6, ¿cuál será el valor equiva-lente a 39 “micromicrofarads”?
+
+![image](https://user-images.githubusercontent.com/85263529/120599692-7286fc00-c40d-11eb-9e4f-29a38b20fd77.png)
+
+50.a. Si 0.045 coulomb de carga (pregunta 29) pasan a través de un alambre en15 ms, ¿a cuántos electrones equivale esto?b. Con una rapidez de 9.36 1019electrones por segundo, ¿cuántos cou-lombs pasan por un punto de un alambre en 20 s?
+
+![image](https://user-images.githubusercontent.com/85263529/120599769-8894bc80-c40d-11eb-91a1-0b271498bd3c.png)
+
+51.Una señal de radio viaja a 299 792.458 km/s y una señal telefónica a 150m/s. Si ambas se originan en el mismo punto, ¿cuál llega primero a un destino alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?
+
+![image](https://user-images.githubusercontent.com/85263529/120599807-94807e80-c40d-11eb-9f7a-3956b4d116ba.png)
+
+52. En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del voltaje y la corriente, esto es,PVIwatts.a. Si V50 V e I24 mA (ambos valores exactos), ¿cuánto vale Penwatts?b. Si el voltaje se mide con un voltímetro como V50.0 0.1 volts y la co-rriente se mide con un amperímetro como I24.0 0.1 mA, ¿qué con-cluye acerca de Pcon base en los valores medidos?
+
+![image](https://user-images.githubusercontent.com/85263529/120599859-a6622180-c40d-11eb-80cc-868e0f0106b2.png)
+
+53. En el capítulo 4 aprenderá que la resistencia está dada por la razón entre elvoltaje y la corriente, es decir,RVIohms.a. Si V50 V e I24 mA (ambos valores exactos), ¿cuánto vale R?b.Si el voltaje se mide como V50.0 0.1 volts y la corriente como I24.0 0.1 mA, ¿qué concluye acerca de Rcon base en los valoresmedidos?
+
+![image](https://user-images.githubusercontent.com/85263529/120599965-cdb8ee80-c40d-11eb-886d-66feb04e3bc6.png)
+
+54. El componente soldado en el circuito impreso de la Figura 1-13(a) es un dis-positivo electrónico conocido como circuito integrado. Como está indicado en(b), el espaciamiento de centro a centro entre sus terminales es de 0.8 0.1mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45 mm.Considere estas incertidumbres y calcule la distancia mínima y máxima entrelas terminales debida a las tolerancias de fabricación.
+
+![image](https://user-images.githubusercontent.com/85263529/120600004-db6e7400-c40d-11eb-9d50-f795ad14cd7a.png)
+
+1-6 Diagramas de circuitos
+56. Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apro-piados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: enlos siguientes capítulos hay muchos circuitos esquemáticos que contienen re-sistores, inductores y capacitores. Utilícelos como ayuda
+
+![image](https://user-images.githubusercontent.com/85263529/120600167-11135d00-c40e-11eb-84de-be45bb8432c0.png)
+
+2-1Revisión de la teoría atómica
+1. ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes ele-mentos?a. 1 metro cúbico de cobre
+b. Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm
+
+![image](https://user-images.githubusercontent.com/85263529/120600534-7f581f80-c40e-11eb-9d32-373af32d02f0.png)
+
+2. Dos cargas están separadas por cierta distancia, como en la figura 2-31,¿cómo se ve afectada la fuerza entre ellas si
+a. se duplica la magnitud de ambas cargas?
+b. se triplica la distancia entre ellas?
+
+![image](https://user-images.githubusercontent.com/85263529/120600568-8a12b480-c40e-11eb-8b68-f2cff51b3534.png)
+
+3. Dos cargas están separadas por cierta distancia. Si la magnitud de una cargase duplica y la otra se triplica y la distancia entre ellas se reduce a la mitad,¿cómo se ve afectada la fuerza?
+
+![image](https://user-images.githubusercontent.com/85263529/120600603-926aef80-c40e-11eb-9b43-444c2c9ed299.png)
+
+5. Cierto material tiene 4 electrones en su capa de valencia y un segundo mate-rial tiene 1. ¿Cuál es mejor conductor?
+
+![image](https://user-images.githubusercontent.com/85263529/120600640-a0207500-c40e-11eb-9975-6e677b1fb3cc.png)
 
 
+5. a. ¿Qué hace que un material sea buen conductor? (En su respuesta considerelas capas de valencia y los electrones libres.)b. Además de ser un buen conductor, mencione otras dos razones por las queel cobre es ampliamente usado.c. ¿Qué hace que un material sea buen aislante?d.Normalmente el aire es un aislante; sin embargo, durante las descargas derayos hay conducción. Discuta brevemente el mecanismo de flujo de cargaen esta descarga.
+
+![image](https://user-images.githubusercontent.com/85263529/120600673-aa427380-c40e-11eb-90a8-6c95f41b78f6.png)
+
+![image](https://user-images.githubusercontent.com/85263529/120600777-c6deab80-c40e-11eb-8535-9dd58cf018f0.png)
+
+![image](https://user-images.githubusercontent.com/85263529/120600797-ccd48c80-c40e-11eb-9ea6-9b6d9e575f8d.png)
+
+ 6. a. Aunque el oro es muy caro, en ocasiones se usa en electrónica como recu-brimiento en contactos. ¿Por qué?b. ¿Por qué algunas veces se usa el aluminio cuando su conductividad es sólo60% de la del cobre?
+
+![image](https://user-images.githubusercontent.com/85263529/120600865-dfe75c80-c40e-11eb-82e6-ce144e5b6c2a.png)
+
+2-2La unidad de carga eléctrica: el coulomb
+
+7. Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuándo esde atracción y cuándo de repulsión.
+a. Una carga de 1 C y una carga de 7 C, separadas 10 mm
+b.Q18 C y Q24 C, separados 12 cm
+c. Dos electrones separados 12 108m
+d. Un electrón y un protón separados 5.3 1011m
+e. Un electrón y un neutrón separados 5.7 1011m
+
+![image](https://user-images.githubusercontent.com/85263529/120600943-f2fa2c80-c40e-11eb-84ee-052920ece39c.png)
+
+![image](https://user-images.githubusercontent.com/85263529/120600977-fee5ee80-c40e-11eb-8dd1-573f545ec920.png)
+
+8. ¿Qué significado tiene decir que un cuerpo está “cargado”?
+
+![image](https://user-images.githubusercontent.com/85263529/120600997-073e2980-c40f-11eb-991b-94b4fb418c32.png)
+
+9. La fuerza entre dos cargas, una positiva y una negativa, separadas 2 cm es de180 N. Si Q14 C, ¿cuánto vale Q2?,¿la fuerza es de atracción o de repulsión?
+
+![image](https://user-images.githubusercontent.com/85263529/120601081-21780780-c40f-11eb-9a80-94806eec2284.png)
+
+10.Si se pudiera colocar una carga de 1 C en cada uno de dos cuerpos que están separados 25 cm de centro a centro, ¿cuál sería la fuerza entre ella sen newtons?, ¿y en toneladas?
+
+![image](https://user-images.githubusercontent.com/85263529/120601159-381e5e80-c40f-11eb-9b66-c3ab665fb2a2.png)
+
+11. La fuerza de repulsión entre dos cargas separadas 50 cm es de 0.02 N. Si Q2=5Q1, determine las cargas y su posible signo.
+
+![image](https://user-images.githubusercontent.com/85263529/120601207-45d3e400-c40f-11eb-9065-41385196f7b4.png)
 
 
-
-
-
-
-
-
-
-
-
-12. ¿Cuántos electrones representa una carga de 1.63 mu C ?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120596281-2d60cb00-c409-11eb-93ec-ab28bdd598ce.png)
-
+12. ¿Cuántos electrones representa una carga de 1.63\ \mu C ?
 13. Determina la carga en 19x{10}^{13}electrones.
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120596374-4b2e3000-c409-11eb-9bd9-3213572209e1.png)
- 
-14. Una placa de metal eléctricamente neutra adquiere una carga negativa de 47 mu C. ¿Cuántos electrones se le agregaron?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120596732-b546d500-c409-11eb-9997-6fda6b7b1ec1.png)
-
-15. A una placa de metal se le han adicionado 14.6x{10}^{13}electrones y posteriormente se le agrega una carga de 1.3 mu C. Si la carga final en la placa es de 5.6 mu C, ¿cuál fue la carga inicial?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120596920-f7701680-c409-11eb-86ec-ed4ae7b0a177.png)
-
+14. 14. Una placa de metal eléctricamente neutra adquiere una carga negativa de47\ \mu C. ¿Cuántos electrones se le agregaron?
+15. A una placa de metal se le han adicionado 14.6x{10}^{13}electrones y posteriormente se le agrega una carga de 1.3\mu C. Si la carga final en la placa es de 5.6\mu C, ¿cuál fue la carga inicial?
 2-3 Voltaje
-
-16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
-
-  En primer lugar debemos saber que todo objeto está compuesto por átomos lo cual, este contiene electrones, y al deslizar una silla simulamos el libre movimiento de los electrones lo cual esto vendría a ser la corriente eléctrica, y al chocar contra un objeto estático que esté vendría a tener una carga neutra. Lo cual por esto se produce el choque eléctrico.
-
+16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué
 17. Si se requieren 360 Joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿cuál es el voltaje de la batería?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120597128-41f19300-c40a-11eb-8530-68380a9a2011.png)
-
 18. Si se requiere de 600 J de energía para mover 9.36x{10}^{19}electrones de un punto a otro, ¿cuál es la diferencia de potencial entre los dos puntos?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120597193-5cc40780-c40a-11eb-8105-23e86689ef10.png)
-
 19. Si se requiere de 1.2 kJ de energía para mover 500 mC de un punto a otro, ¿cuál es el voltaje entre los dos puntos?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120597352-8bda7900-c40a-11eb-8d60-07665937a990.png)
-
 20. ¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara de la figura 2-23?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120597477-ba585400-c40a-11eb-953e-5c5b1ed2f6bd.png)
-
-21. ¿Cuánta energía adquiere una carga de 0.5 mu C conforme se mueve a través deuna diferencia de potencial de 8.5 kV
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120597506-c47a5280-c40a-11eb-9505-686cac7608ab.png)
-
+21. ¿Cuánta energía adquiere una carga de 0.5\mu C conforme se mueve a través deuna diferencia de potencial de 8.5 kV
 22. Si el voltaje entre dos puntos es de 100 V, ¿cuánta energía se requiere para mover un electrón entre los dos puntos?
- 
- ![imagen](https://user-images.githubusercontent.com/85263529/120597605-e1168a80-c40a-11eb-9c4d-4458538a0621.png)
-
 23. Dado un voltaje de 12 V para la batería de la figura 2-1, ¿cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120597662-f25f9700-c40a-11eb-8afa-17beb229966a.png)
-
 2-4 Corriente 
-
 24. Para el circuito de la figura 2-1, si 27 C pasan a través de la lámpara en 9 segundos, ¿cuál es la corriente en amperes?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120597777-158a4680-c40b-11eb-9016-ff50b78f1fa2.png)
-
 25. Si  250\mu C pasan a través del amperímetro de la figura 2-32 en 5 ms, ¿cuál será la lectura del medidor?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120597826-25098f80-c40b-11eb-9441-530a9b523760.png)
-
 26. Si la corriente I=4\ A en la figura 2-1, ¿cuántos coulombs pasan a través de la lámpara en 7 ms?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120597871-35216f00-c40b-11eb-84fe-4d5502ad77ab.png)
-
 27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120597933-479ba880-c40b-11eb-8e42-217e26a37d5d.png)
-
 28. ¿Cuánto tiempo le toma a una carga de 100\mu C pasar por un punto si la corriente es de 25 mA?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120597984-571af180-c40b-11eb-98ce-affde96f8fde.png)
-
 29. Si 93.6x{10}^{12}electrones pasan a través de una lámpara en 5 ms, ¿cuál es la corriente?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120598104-7ade3780-c40b-11eb-8b74-9e6860fba7ed.png)
-
-30. La carga que pasa a través de un alambre está dada por q=10t+4, donde q está en coulomb y t en segundos
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120598147-87fb2680-c40b-11eb-9cd9-6442b99caf8a.png)
-
-31. La carga que pasa a través de un alambre es q=(80t+20)C. ¿Cuál es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120598392-d3add000-c40b-11eb-900b-a8499e605865.png)
-
+30. La carga que pasa a través de un alambre está dada por q=10t+4, donde q está en coulomb y ten segundos
+31. La carga que pasa a través de un alambre es q=(80t+20)C. ¿Cuál es la corriente? 
+Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
 32. ¿Cuánto tiempo le toma a 312x{10}^{19}electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8 A?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120598445-de686500-c40b-11eb-83bb-4cabc3e37c92.png)
-
 33. Si se requieren 1 353.6 J para mover 47x{10}^{19}electrones a través de la lámpara de la figura 2-32 en 1.3 min, ¿cuánto valen E e I?
-
- ![imagen](https://user-images.githubusercontent.com/85263529/120598507-f2ac6200-c40b-11eb-9e66-559df9d63e7d.png)
-
 2-5 Fuentes de voltaje de cd prácticas
-
 34. ¿Qué se entiende por cd?, ¿y por ca?
-
 
 35. Considere tres baterías conectadas como en la figura 2-33
 
