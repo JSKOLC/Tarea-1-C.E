@@ -12,13 +12,13 @@
   
    1)Realice las siguientes conversiones:
    
-![image](https://user-images.githubusercontent.com/85263529/120584635-f3d29480-c3f5-11eb-8531-b8ad23df9ce9.png)
+   ![image](https://user-images.githubusercontent.com/85263529/120584635-f3d29480-c3f5-11eb-8531-b8ad23df9ce9.png)
 
-![image](https://user-images.githubusercontent.com/85263529/120584667-04830a80-c3f6-11eb-9ec6-4ce114cb5079.png)
+   ![image](https://user-images.githubusercontent.com/85263529/120584667-04830a80-c3f6-11eb-9ec6-4ce114cb5079.png)
 
   2)Realice las siguientes conversiones:
 
-![image](https://user-images.githubusercontent.com/85263529/120584742-241a3300-c3f6-11eb-86cc-1995de6d3156.png)
+  ![image](https://user-images.githubusercontent.com/85263529/120584742-241a3300-c3f6-11eb-86cc-1995de6d3156.png)
 
 ![image](https://user-images.githubusercontent.com/85263529/120584780-31372200-c3f6-11eb-9ffc-135a6c0cc67a.png)
 
@@ -65,6 +65,9 @@
 11) Se define la ecuación s=vt, donde s es la distancia recorrida, v es la velocidad y t es el tiempo. Si usted viaja a v= 60mph por 500 segundos, obtiene y sustituye sin pensar s=(60)(500)=30.000 millas. ¿Cuál es el error en este cálculo? ¿Cuál es la respuesta correcta? 
 
 ![image](https://user-images.githubusercontent.com/85263529/120585483-70b23e00-c3f7-11eb-935b-f0c68d0ad5b9.png)
+
+
+
 
 12) Una pizza redonda tiene una circunferencia de 47 pulgas. ¿Cuánto tiempo tardará en cortarla diagonalmente con un cortador de pizza que viaja a 0?12 m/s? 
 
@@ -170,9 +173,63 @@ B.	Realice la operación directamente en la calculadora sin conversión ¿Cuál 
 
 ![image](https://user-images.githubusercontent.com/85263529/120587246-9ee54d00-c3fa-11eb-9e64-4cbac340f244.png)
 
+12. ¿Cuántos electrones representa una carga de 1.63\ \mu C ?
+13. Determina la carga en 19x{10}^{13}electrones.
+14. 14. Una placa de metal eléctricamente neutra adquiere una carga negativa de47\ \mu C. ¿Cuántos electrones se le agregaron?
+15. A una placa de metal se le han adicionado 14.6x{10}^{13}electrones y posteriormente se le agrega una carga de 1.3\mu C. Si la carga final en la placa es de 5.6\mu C, ¿cuál fue la carga inicial?
+2-3 Voltaje
+16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué
+17. Si se requieren 360 Joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿cuál es el voltaje de la batería?
+18. Si se requiere de 600 J de energía para mover 9.36x{10}^{19}electrones de un punto a otro, ¿cuál es la diferencia de potencial entre los dos puntos?
+19. Si se requiere de 1.2 kJ de energía para mover 500 mC de un punto a otro, ¿cuál es el voltaje entre los dos puntos?
+20. ¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara de la figura 2-23?
+21. ¿Cuánta energía adquiere una carga de 0.5\mu C conforme se mueve a través deuna diferencia de potencial de 8.5 kV
+22. Si el voltaje entre dos puntos es de 100 V, ¿cuánta energía se requiere para mover un electrón entre los dos puntos?
+23. Dado un voltaje de 12 V para la batería de la figura 2-1, ¿cuánta carga se mueve a través de la lámpara si se requieren 57 J de energía para moverla?
+2-4 Corriente 
+24. Para el circuito de la figura 2-1, si 27 C pasan a través de la lámpara en 9 segundos, ¿cuál es la corriente en amperes?
+25. Si  250\mu C pasan a través del amperímetro de la figura 2-32 en 5 ms, ¿cuál será la lectura del medidor?
+26. Si la corriente I=4\ A en la figura 2-1, ¿cuántos coulombs pasan a través de la lámpara en 7 ms?
+27. ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20 ms?
+28. ¿Cuánto tiempo le toma a una carga de 100\mu C pasar por un punto si la corriente es de 25 mA?
+29. Si 93.6x{10}^{12}electrones pasan a través de una lámpara en 5 ms, ¿cuál es la corriente?
+30. La carga que pasa a través de un alambre está dada por q=10t+4, donde q está en coulomb y ten segundos
+31. La carga que pasa a través de un alambre es q=(80t+20)C. ¿Cuál es la corriente? 
+Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
+32. ¿Cuánto tiempo le toma a 312x{10}^{19}electrones pasar a través del circuito de la figura 2-32 si la lectura del amperímetro es de 8 A?
+33. Si se requieren 1 353.6 J para mover 47x{10}^{19}electrones a través de la lámpara de la figura 2-32 en 1.3 min, ¿cuánto valen E e I?
+2-5 Fuentes de voltaje de cd prácticas
+34. ¿Qué se entiende por cd?, ¿y por ca?
 
+35. Considere tres baterías conectadas como en la figura 2-33
 
+36. ¿Cómo se carga una batería secundaria? Haga un bosquejo. ¿Se puede cargar una batería primaria?
 
+37. Una batería especificada en 1 400 mAh suministra 28 mA a una carga. ¿Cuánto tiempo se espera que dure?
+
+38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA? ¿Qué concluye de estos resultados?
+
+39. La batería de la figura 2-15 está especificada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a15°C?
+
+40. Se espera que la batería de la figura 2-15 dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0.8 A?
+
+41. En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA, ¿cuál es el tiempo estimado (en horas) que será capaz de usar?
+
+2-6 Medición de voltaje y corriente
+
+42. El voltímetro digital de la figura 2-34 tiene la característica de auto polaridad. Para cada caso, determine su lectura
+
+43. La corriente en el circuito de la figura 2-35 es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente?
+
+44. ¿Cuál es el error en la afirmación de que el voltaje a través de la lampara de la figura 2-24 es 70.3\ V.?
+
+45. ¿Cuál es el error con el esquema de medición que se muestra en la figura 2-36? Corríjalo
+
+2-7Interruptores, fusibles e interruptores automáticos
+
+46. Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla 2-2. Dibuje el circuito requerido.
+
+47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especificación de voltaje. ¿Por qué? Sugerencia: lea la sección de aislantes, sección 2-1
 
 12. CONCLUSIONES
 13.  
