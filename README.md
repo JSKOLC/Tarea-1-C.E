@@ -1,5 +1,7 @@
 1. OBJETIVOS
 2. MARCO TEORICO.
+![MAPA 1](https://user-images.githubusercontent.com/85263529/120591133-44032400-c401-11eb-995b-018a0ada01a4.jpeg)
+
 
 ![image](https://user-images.githubusercontent.com/85263529/120580995-af43fa80-c3ef-11eb-9f76-9b7eb19e94dc.png)
 
